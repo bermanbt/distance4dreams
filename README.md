@@ -1,2 +1,2 @@
 # distance4dreams
-Nonprofit wish granting for Students
+Nonprofit wish granting by college students
